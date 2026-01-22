@@ -1,0 +1,233 @@
+#body {
+     background-color: rgb(253, 234, 238);
+
+}
+#navBar {
+    height: 40px;
+    width: 98vw;
+    position: relative;
+    text-align: center;
+    padding: 10px;
+
+}
+
+#gptIcon {
+    top: 5px;
+    left: 4px;
+    width: 30px;
+    position: absolute;
+    cursor: pointer;
+
+}
+
+#downArrow {
+    position: absolute;
+    left: 130px;
+    top: 15px;
+    color: grey;
+    cursor: pointer;
+
+}
+
+#nextToLogoText {
+    font-size: 20px;
+    left: 40px;
+    top: 12px;
+    position: absolute;
+    font-family: "Mulish", sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+#options {
+    font-family: "Mulish", sans-serif;
+    display: inline;
+    margin-right: 50px;
+    color: grey;
+}
+
+#LogIn {
+    color: white;
+    background-color: black;
+    position: absolute;
+    height: 30px;
+    border-radius: 3rem;
+    font-family: "Mulish", sans-serif;
+    right: 165px;
+    top: 5px;
+    cursor: pointer;
+    
+}
+
+#SignUpForFree {
+    height: 30px;
+    border-radius: 3rem;
+    position: absolute;
+    right: 45px;
+    top: 5px;
+    font-family: "Mulish", sans-serif;
+    cursor: pointer;
+}
+
+#questionMark {
+    position: absolute;
+    right: 10px;
+    font-size: 20px;
+    top: 10px;
+    cursor: pointer;
+}
+
+#imagesMsg {
+    font-family: "Mulish", sans-serif;
+    font-size: 30px;
+    position: absolute;
+    top: 70px;
+    left: 45.5%;
+}
+
+#styleMsg {
+    font-family: "Mulish", sans-serif;
+    font-size: 20px;
+    position: absolute;
+    left: 500px;
+    top: 160px;;
+    
+}
+#leftArrow1 {
+    position: absolute;
+    top: 160px;
+    right: 580px;
+    font-size: 30px;
+}
+#rightArrow1 {
+    position: absolute;
+    top: 160px;
+    right: 540px;
+    font-size: 30px;
+    
+}
+#img {
+    border-radius: 2rem;
+    height: 200px;
+}
+#image1 {
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+}
+#image2 {
+    position: absolute;
+    top: 200px;
+    left: 650px;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+    
+}
+#image3 {
+    position: absolute;
+    top: 200px;
+    left: 800px;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+    
+}
+#image4 {
+    position: absolute;
+    top: 200px;
+    left: 950px;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+    
+}
+#image5 {
+    position: absolute;
+    top: 200px;
+    left: 1100px;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+    
+}
+#image6 {
+    position: absolute;
+    top: 200px;
+    left: 1250px;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+    
+}
+#discoverMsg {
+    font-family: "Mulish", sans-serif;
+    font-size: 20px;
+    position: absolute;
+    left: 500px;
+    top: 490px;;
+    
+}
+#img1 {
+    border-radius: 0.5rem;
+    height: 50px;
+    width: 50px;
+}
+#underImageText1 {
+    display: inline;
+}
+
+
+
+#image7{
+    position: absolute;
+    top: 530px;
+    left: 500px;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+}
+#image8{
+    position: absolute;
+    top: 590px;
+    left: 500px;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+}
+#image9{
+    position: absolute;
+    top: 650px;
+    left: 500px;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+}
+#image10{
+    position: absolute;
+    top: 530px;
+    left: 1000px;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+}
+#image11{
+    position: absolute;
+    top: 590px;
+    left: 1000px;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+}
+#image12{
+    position: absolute;
+    top: 650px;
+    left: 1000px;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+}
+#leftArrow2 {
+    position: absolute;
+    top: 490px;
+    right: 580px;
+    font-size: 30px;
+}
+#rightArrow2 {
+    position: absolute;
+    top: 490px;
+    right: 540px;
+    font-size: 30px;
+    
+}

@@ -1,0 +1,176 @@
+#navBar {
+    height: 40px;
+    width: 99vw;
+    position: relative;
+    text-align: center;
+    padding: 10px;
+
+}
+
+#gptIcon {
+    top: 5px;
+    left: 4px;
+    width: 30px;
+    position: absolute;
+    cursor: pointer;
+
+}
+
+#downArrow {
+    position: absolute;
+    left: 130px;
+    top: 15px;
+    color: grey;
+    cursor: pointer;
+
+}
+
+#nextToLogoText {
+    font-size: 20px;
+    left: 40px;
+    top: 12px;
+    position: absolute;
+    font-family: "Mulish", sans-serif;
+
+}
+
+#options {
+    font-family: "Mulish", sans-serif;
+    display: inline;
+    margin-right: 50px;
+    color: grey;
+}
+
+#imagesRef {
+    text-decoration: none;
+}
+
+#LogIn {
+    color: white;
+    background-color: black;
+    position: absolute;
+    height: 30px;
+    border-radius: 3rem;
+    font-family: "Mulish", sans-serif;
+    right: 165px;
+    top: 5px;
+    cursor: pointer;
+    
+}
+
+#SignUpForFree {
+    height: 30px;
+    border-radius: 3rem;
+    position: absolute;
+    right: 45px;
+    top: 5px;
+    font-family: "Mulish", sans-serif;
+    cursor: pointer;
+}
+
+#questionMark {
+    position: absolute;
+    right: 10px;
+    font-size: 20px;
+    top: 10px;
+    cursor: pointer;
+}
+
+#welcomeMsg {
+    font-family: "Mulish", sans-serif;
+    position: absolute;
+    right: 40%;
+    font-size: 2rem;
+    top: 30%;
+}
+
+#container {
+    border: 1px rgb(175, 175, 175) solid;
+    border-radius: 2rem;
+    height: 100px;
+    width: 700px;
+    position: absolute;
+    top: 350px;
+    left: 580px;
+}
+
+#input {
+    display: block;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: larger;
+    border-style: hidden;
+}
+
+#attach {
+    border-width: 1px;
+    font-family: "Mulish", sans-serif;
+    cursor: pointer;
+    border-radius: 2rem;
+    top: 55px;
+    height: 35px;
+    background-color: white;
+    padding: 10px;
+    position: absolute;
+    left: 10px; 
+    color: rgb(175, 175, 175);
+    border: 1px rgb(175, 175, 175) solid;
+    
+}
+#search {
+    border-width: 1px;
+    font-family: "Mulish", sans-serif;
+    cursor: pointer;
+    border-radius: 2rem;
+    height: 35px;
+    background-color: white;
+    padding: 10px;
+    position: absolute;
+    top: 55px;
+    left: 110px; 
+    color: rgb(175, 175, 175);
+    border: 1px rgb(175, 175, 175) solid;
+}
+#study {
+    border-width: 1px;
+    font-family: "Mulish", sans-serif;
+    cursor: pointer;
+    border-radius: 2rem;
+    height: 35px;
+    background-color: white;
+    padding: 10px;
+    position: absolute;
+    top: 55px;
+    left: 210px; 
+    color: rgb(175, 175, 175);
+    border: 1px rgb(175, 175, 175) solid;
+}
+#createImage {
+    border-width: 1px;
+    font-family: "Mulish", sans-serif;
+    cursor: pointer;
+    border-radius: 2rem;
+    height: 35px;
+    background-color: white;
+    padding: 10px;
+    position: absolute;
+    top: 55px;
+    left: 310px; 
+    color: rgb(175, 175, 175);
+    border: 1px rgb(175, 175, 175) solid;
+}
+#voice {
+    border-width: 1px;
+    font-family: "Mulish", sans-serif;
+    cursor: pointer;
+    border-radius: 2rem;
+    height: 35px;
+    background-color: white;
+    padding: 10px;
+    position: absolute;
+    right: 10px;
+    top: 55px;
+    color: rgb(175, 175, 175);
+    border: 1px rgb(175, 175, 175) solid;
+}
